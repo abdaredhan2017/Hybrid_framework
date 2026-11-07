@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1648","TC002","chromium","2026-11-07","failed","2026-11-07","Test Suite","TestSuite.spec.ts","",""
+"","12319","TC001","chromium","2026-11-07","passed","2026-11-07","Test Suite","TestSuite.spec.ts","",""
+"","12421","TC001","chromium","2026-11-07","passed","2026-11-07","","TC001.spec.ts","",""
