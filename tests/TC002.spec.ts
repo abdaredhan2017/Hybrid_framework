@@ -3,7 +3,7 @@
 import {test} from '@playwright/test';
 import { General } from '../lib/General';
 
-test('TC002', async ({page}) => {
+test('TC002_Add New Employee', async ({page}) => {
 
     let obj = new General(page);
         obj.openApplication();
